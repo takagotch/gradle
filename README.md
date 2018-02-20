@@ -1,6 +1,6 @@
 
-#Gradle
+# Gradle
 
 https://gradle.org/
-##android gradle dsl
+## android gradle dsl
 http://google.github.io/android-gradle-dsl/
